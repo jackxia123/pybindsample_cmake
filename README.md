@@ -8,6 +8,8 @@ cmake ..
 
 make -j4
 
+or you can run ./build.sh   before you run this script, you should run sudo chmod 777 build.sh ,get the exection permission
+
 # provide the c++ function which can be called by python in example.cpp
 
 
